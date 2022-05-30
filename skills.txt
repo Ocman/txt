@@ -1,0 +1,1 @@
+<skills> skill1:git, skill2:Postman, skill3:sql, skill4:JS, skill5:qa
