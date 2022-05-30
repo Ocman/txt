@@ -1,1 +1,3 @@
 
+
+<Bug report> "Title": "Bug title", "Environment": " environment where you can reproduce bug", "Scenario": "Steps wich you should follow to reproduce bug", "actual result": "what actually happen when you follow for streps in scenario", "expected result": "what should happen when you follow for streps in scenario according to specifications", "attachment": additional files which help to reproduce bug
